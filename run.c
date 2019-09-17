@@ -2,7 +2,8 @@
 
 int main()
 {
-printf("\nHello World");
+printf("\nHello World\n");
+printf("\nHello Git\n");
 return 0
 
 }
