@@ -2,8 +2,8 @@
 
 int main()
 {
-printf("\nHello World\n");
-printf("\nHello Git\n");
+printf("\nHello World");
+printf("This is a change made in github.com"):
 return 0
 
 }
